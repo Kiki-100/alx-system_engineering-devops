@@ -1,5 +1,3 @@
 #!/bin/bash
 mktemp -d -t ci-holberton
 
-
-
